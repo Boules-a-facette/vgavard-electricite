@@ -1,0 +1,82 @@
+[av_layerslider id='1']
+
+[av_textblock size='' font_color='' color='']
+<h1 style="text-align: center;">06 76 94 78 87
+Votre électricien de proximité à Aix les Bains, Chambéry et Annecy</h1>
+[/av_textblock]
+
+[av_hr class='invisible' height='35' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first]
+[av_icon_box icon='ue864' font='entypo-fontello' position='left' title='Particuliers et Pros' link='' linktarget='' linkelement='']
+<span style="color: #666666;">Nous trouvons des solutions adaptées à vos besoins grâce à nos compétences et notre expertise</span>
+[/av_icon_box]
+[/av_one_third]
+
+[av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat']
+[av_icon_box icon='ue866' font='entypo-fontello' position='left' title='Intervention Rapide' link='' linktarget='' linkelement='']
+Nous intervenons rapidement sur les bassins Chambérien, Aixois et Annécien
+[/av_icon_box]
+[/av_one_third]
+
+[av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat']
+[av_icon_box icon='ue8b7' font='entypo-fontello' position='left' title='Devis Gratuit' link='' linktarget='' linkelement='']
+<a title="Contact" href="http://www.vgavard-electricite.com/WP/?page_id=1167">Contactez nous</a> par mail ou téléphone pour vos questions ou demandes de devis - 06 76 94 78 87
+[/av_icon_box]
+[/av_one_third]
+
+[av_section color='alternate_color' custom_bg='' src='' position='top left' repeat='repeat' attach='scroll' padding='large' shadow='shadow']
+[av_one_full first]
+
+[av_textblock]
+<h2 style="text-align: center;">Nos dernières réalisations</h2>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center']
+
+[av_gallery ids='3117,3116,3112,3109' style='thumbnails' preview_size='portfolio' crop_big_preview_thumbnail='avia-gallery-big-crop-thumb' thumb_size='portfolio' columns='4' imagelink='lightbox' lazyload='avia_lazyload']
+
+[av_hr class='short' height='70' position='center']
+
+[av_textblock]
+<p style="text-align: center;">Voyez la suite ici !</p>
+[/av_textblock]
+
+[av_hr class='short' height='70' position='center']
+
+[/av_one_full]
+[/av_section]
+
+[av_section color='alternate_color' custom_bg='#f2f2f2' src='' attachment='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' padding='large' shadow='shadow' id='']
+[av_one_full first]
+
+[av_textblock ]
+<h2 style="text-align: center;">Nous vous proposons</h2>
+[/av_textblock]
+
+[/av_one_full][av_one_fourth first]
+
+[/av_one_fourth][av_one_half]
+
+[av_iconlist position='left']
+[av_iconlist_item title='Installations électriques complètes' link='' linktarget='' linkelement='' icon='ue864' font='entypo-fontello']
+rénovation, neuf ou mise aux normes
+[/av_iconlist_item]
+[av_iconlist_item title='Dépannage' link='' linktarget='' linkelement='' icon='ue866' font='entypo-fontello']
+tout type d'installation
+[/av_iconlist_item]
+[av_iconlist_item title='Tableau électrique' link='' linktarget='' linkelement='' icon='64' font='entypo-fontello']
+&amp; appareillage (prise, interrupteur..)
+[/av_iconlist_item]
+[av_iconlist_item title='Tableau de communication &amp; câblage informatique' link='' linktarget='' linkelement='' icon='ue853' font='entypo-fontello']
+(tv, téléphone, fibre optique..)
+[/av_iconlist_item]
+[av_iconlist_item title='Solutions chauffages électriques' link='' linktarget='' linkelement='' icon='ue8d6' font='entypo-fontello']
+(planchers chauffants, convecteurs..)
+[/av_iconlist_item]
+[/av_iconlist]
+
+[/av_one_half][av_one_fourth]
+
+[/av_one_fourth]
+[/av_section]

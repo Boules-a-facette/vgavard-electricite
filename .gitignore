@@ -1,0 +1,4 @@
+# Rien à exclure pour l'instant : assets/ et reference/ sont versionnés.
+# Les gros dumps de base vivent hors du dépôt, dans ~/.hermes/state/.
+*.sql
+*.sql.gz

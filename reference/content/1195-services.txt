@@ -1,0 +1,55 @@
+[av_layerslider id='2']
+
+[av_one_half first]
+[av_slideshow size='portfolio' animation='slide' autoplay='true' interval='5']
+[av_slide slide_type='image' id='3116' attachment=',' video='http://' mobile_image='' video_ratio='16:9' title='' link_apply='' link='lightbox' link_target=''][/av_slide]
+[av_slide slide_type='image' id='3113' attachment=',' video='http://' mobile_image='' video_ratio='16:9' title='' link_apply='' link='lightbox' link_target=''][/av_slide]
+[av_slide slide_type='image' id='3055' attachment=',' video='http://' mobile_image='' video_ratio='16:9' title='' link_apply='' link='lightbox' link_target=''][/av_slide]
+[/av_slideshow]
+[/av_one_half]
+
+[av_one_half]
+
+[av_heading tag='h3' padding='10' heading='Welcome' color='meta-heading' style='' custom_font='' size='' subheading_active='' subheading_size='10' custom_class=''][/av_heading]
+
+[av_textblock ]
+Vous envisagez de rénover ou mettre aux normes votre habitation ? Vous souhaitez installer de nouveaux éclairage dans votre commerce ? Vous chercher un professionnel pour faire l'installation électrique de votre logement neuf ?
+
+Nous trouvons des solutions adaptées à vos besoins grâce à nos compétences et notre expertise.
+
+Vincent Gavard - Electricité générale intervient de Chambéry à Annecy en passant par le bassin aixois.
+
+<strong>Contactez-nous au 06 746 94 78 87</strong>
+<h4></h4>
+[/av_textblock]
+
+[/av_one_half][av_heading tag='h3' padding='15' heading='Nous couvrons l’essentiel de vos besoins :' color='meta-heading' style='' custom_font='' size='' subheading_active='' subheading_size='10' custom_class=''][/av_heading]
+
+[av_one_full first]
+[av_iconlist position='left']
+[av_iconlist_item title='Installations électriques complètes' link='' linktarget='' linkelement='' icon='ue864' font='entypo-fontello']
+rénovation, neuf ou mise aux normes
+[/av_iconlist_item]
+[av_iconlist_item title='Dépannage' link='' linktarget='' linkelement='' icon='ue866' font='entypo-fontello']
+tout type d'installation
+[/av_iconlist_item]
+[av_iconlist_item title='Tableau électrique' link='' linktarget='' linkelement='' icon='64' font='entypo-fontello']
+&amp; appareillage (prise, interrupteur..)
+[/av_iconlist_item]
+[av_iconlist_item title='Tableau de communication &amp; câblage informatique' link='' linktarget='' linkelement='' icon='ue853' font='entypo-fontello']
+Liste de contenu se place ici
+[/av_iconlist_item]
+[av_iconlist_item title='Solutions chauffages électriques' link='' linktarget='' linkelement='' icon='ue8d6' font='entypo-fontello']
+(planchers chauffants, convecteurs..)
+[/av_iconlist_item]
+[/av_iconlist]
+[/av_one_full]
+
+[av_hr class='short' height='50' shadow='no-shadow' position='center']
+
+[av_textblock]
+<h2 style="text-align: center;"><a title="Contact" href="http://www.vgavard-electricite.com/WP/contact/">Contactez nous</a></h2>
+<p style="text-align: center;"><a title="Contact" href="http://www.vgavard-electricite.com/WP/contact/">pour toutes questions ou demande de devis</a></p>
+[/av_textblock]
+
+[av_hr class='short' height='50' shadow='no-shadow' position='center']
