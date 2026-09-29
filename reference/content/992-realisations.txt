@@ -1,6 +1,0 @@
-[av_textblock]
-<h5 style="text-align: left;">Vous trouverez ici un rapide aperçu de notre travail.</h5>
-<p style="text-align: left;">Si vous avez besoin d'un devis pour une intervention rapide pour vos rénovations et installations électriques, rendez-vous sur la page <a title="Contact" href="http://www.vgavard-electricite.com/WP/contact-devis-rapide-electricien-savoie-chambery-aix-les-bains/">contact</a> ou au 06 76 94 78 87.</p>
-[/av_textblock]
-
-[av_masonry_gallery ids='3108,3117,3116,3115,3114,3113,3112,3111,3110,3109' items='24' paginate='pagination' size='flex' gap='large' overlay_fx='' caption_elements='none' caption_display='always' container_links='active' id='']
