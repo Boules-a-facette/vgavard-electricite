@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.vgavard-electricite.com/sitemap.xml
+Sitemap: https://vgavard-electricite.com/sitemap.xml
